@@ -1,0 +1,1 @@
+#This is my answer in JavaScript to CodeCademy's project about Paequor organism's DNA bases. 
